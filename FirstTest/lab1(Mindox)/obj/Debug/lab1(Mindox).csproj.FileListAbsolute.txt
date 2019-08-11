@@ -1,0 +1,6 @@
+c:\users\max\documents\visual studio 2017\Projects\lab1(Mindox)\lab1(Mindox)\bin\Debug\lab1(Mindox).pdb
+c:\users\max\documents\visual studio 2017\Projects\lab1(Mindox)\lab1(Mindox)\obj\Debug\lab1(Mindox).pdb
+c:\users\max\documents\visual studio 2017\Projects\lab1(Mindox)\lab1(Mindox)\bin\Debug\lab1(Mindox).dll.config
+c:\users\max\documents\visual studio 2017\Projects\lab1(Mindox)\lab1(Mindox)\bin\Debug\lab1(Mindox).dll
+c:\users\max\documents\visual studio 2017\Projects\lab1(Mindox)\lab1(Mindox)\obj\Debug\lab1(Mindox).dll
+c:\users\max\documents\visual studio 2017\Projects\lab1(Mindox)\lab1(Mindox)\obj\Debug\lab1(Mindox).csprojResolveAssemblyReference.cache
